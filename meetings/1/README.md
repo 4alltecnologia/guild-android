@@ -10,8 +10,13 @@
 * Natanael Ribeiro
 * Roger Silva
 
+## Discussões
 
-## Tópicos a serem abordados: ##
+Ouça o audio das discussões desta edição da 4all - Guild Android #1 no SoundCloud:
+
+* [Semântica de versionamento](https://soundcloud.com/roger-silva-941993496/guild-android-1-semantic?in=roger-silva-941993496/sets/4all-guild-android-1)
+
+## Tópicos a serem abordados:
 
 * CI/CD
 * Testes
@@ -34,7 +39,7 @@
 * Assinatura de APK pela Google Play
 * Injeção de dependências
 	
-## Pontos importantes de se ter no seed: ##
+## Pontos importantes de se ter no seed:
 
 * Arquitetura definida
   * MVVM
@@ -54,7 +59,3 @@
 * Exemplo de injeção de dependências
 * Exemplo de UI e animações
   * Lottie
-
-<audio controls src="https://github.com/4alltecnologia/guild-android/blob/master/meetings/1/audio/guild_android_1_semantic_versioning.wav">
-   <a href="https://github.com/4alltecnologia/guild-android/blob/master/meetings/1/audio/guild_android_1_semantic_versioning.wav">Teste</a>
-</audio>
