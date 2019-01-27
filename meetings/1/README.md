@@ -54,3 +54,7 @@
 * Exemplo de injeção de dependências
 * Exemplo de UI e animações
   * Lottie
+
+<audio controls src="https://github.com/4alltecnologia/guild-android/blob/master/meetings/1/audio/guild_android_1_semantic_versioning.wav">
+   <a href="https://github.com/4alltecnologia/guild-android/blob/master/meetings/1/audio/guild_android_1_semantic_versioning.wav">Teste</a>
+</audio>
