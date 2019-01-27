@@ -14,9 +14,12 @@
 
 Ouça o audio das discussões desta edição no SoundCloud:
 
-* [4all - Guild Android #1 - SoundCloud](https://soundcloud.com/roger-silva-941993496/sets/4all-guild-android-1)
+* [Playlist completa da 4all - Guild Android #1](https://soundcloud.com/roger-silva-941993496/sets/4all-guild-android-1)
 
 * [Semântica de versionamento](https://soundcloud.com/roger-silva-941993496/guild-android-1-semantic?in=roger-silva-941993496/sets/4all-guild-android-1)
+
+---
+
 * [Arquitetura](https://soundcloud.com/roger-silva-941993496/guild-android-1-arch?in=roger-silva-941993496/sets/4all-guild-android-1)
 * [`minSdkVersion`](https://soundcloud.com/roger-silva-941993496/guild-android-1-api-21?in=roger-silva-941993496/sets/4all-guild-android-1)
 * [Proguard](https://soundcloud.com/roger-silva-941993496/guild-android-1-proguard?in=roger-silva-941993496/sets/4all-guild-android-1)
