@@ -1,6 +1,6 @@
-# 4all - Guild Android #1
+# 4all - Guild Android #1 - Repassando boas práticas/convenções/definições e abordando o 4all seed
 
-## Participantes: ##
+## Participantes:
 
 * Arildo Jr.
 * Giovanni Melo
