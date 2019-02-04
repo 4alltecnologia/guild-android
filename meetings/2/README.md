@@ -19,7 +19,7 @@ Ouça o audio das discussões desta edição no SoundCloud:
 
 ## O que é CI/CD?
 
-CI (Continuous Integration) trata-se de um meio pelo qual pequenos incrementos de software são validados através de múltiplos estágios automatizados e incorporados a suma solução que entregará valor aos seus `stakeholders`.
+CI (Continuous Integration) trata-se de um meio pelo qual pequenos incrementos de software são validados através de múltiplos estágios automatizados e incorporados a suma solução que entregará valor aos seus *stakeholders*.
 
 CD (Continuous Delivery) faz uso de um mecanismo de CI, tal que, ao final de sua execução, faz necessário o acionamento manual de um gatilho para que a solução seja implantada (ou publicada) em um ambiente para o qual pode ser acessada.
 
