@@ -9,6 +9,7 @@
 * Lucas Grando
 * Natanael Ribeiro
 * Roger Silva
+* Vanessa Cardoso
 
 Ouça o audio das discussões desta edição no SoundCloud:
 

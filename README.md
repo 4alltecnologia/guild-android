@@ -5,7 +5,6 @@
 Membros:
 
 * [Arildo Jr.](https://www.linkedin.com/in/arildoborgesjr/)
-* [Evandro Falkembach](https://www.linkedin.com/in/evandrofalkembach/)
 * [Giovanni Melo](https://www.linkedin.com/in/giovanni-de-campos-melo-7b4a5532/)
 * [Guilherme Bisotto](https://www.linkedin.com/in/guilhermebisotto/)
 * [Itaua Machado](https://www.linkedin.com/in/itau%C3%A1-ferreira-machado-62883367/)
@@ -13,6 +12,7 @@ Membros:
 * [Lucas Grando](https://www.linkedin.com/in/lucas-grando/)
 * [Natanael Ribeiro](https://www.linkedin.com/in/natanaelribeiro/)
 * [Roger Silva](https://www.linkedin.com/in/orogersilva/)
+* [Vanessa Cardoso](https://www.linkedin.com/in/vanessa-cardoso-98525626/)
 
 ---
 
