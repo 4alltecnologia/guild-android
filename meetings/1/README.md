@@ -9,7 +9,6 @@
 * Lucas Grando
 * Natanael Ribeiro
 * Roger Silva
-* Vanessa Cardoso
 
 ## Discussões
 
