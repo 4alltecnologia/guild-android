@@ -38,7 +38,7 @@ Ouça o audio das discussões desta edição no SoundCloud:
 * UI
 * Constraint Layout
   * Motion Layout
-  * Lint
+* Lint
 * Otimizações (consumo de banda, bateria, processamento, tamanho do aplicativo)
   * App Bundle
 * Segurança Mobile
