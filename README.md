@@ -20,4 +20,4 @@ Membros:
 
 [Guild Android #2 - CI/CD - 01/02/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/2/README.md)
 
-[Guild Android #3 - Lint - 08/02/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/3/README.md)
+[Guild Android #3 - Lint - 15/02/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/3/README.md)
