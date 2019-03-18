@@ -21,3 +21,7 @@ Membros:
 [Guild Android #2 - CI/CD - 01/02/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/2/README.md)
 
 [Guild Android #3 - Lint - 15/02/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/3/README.md)
+
+[Guild Android #4, #5 e #6 - Reformulação da prova técnica para novos desenvolvedores Android na 4all]
+
+[Guild Android #7 - Modularização - 22/03/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/4/README.md)
