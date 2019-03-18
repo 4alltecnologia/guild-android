@@ -11,10 +11,6 @@
 * Roger Silva
 * Vanessa Cardoso
 
-Ouça o audio das discussões desta edição no SoundCloud:
-
-* [Playlist completa da 4all - Guild Android #2](https://soundcloud.com/roger-silva-941993496/sets/4all-guild-android-2)
-
 ---
 
 ## Modularização
