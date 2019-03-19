@@ -23,4 +23,4 @@ Membros:
 
 [Guild Android #4, #5 e #6 - Reformulação da prova técnica para novos desenvolvedores Android na 4all]
 
-[Guild Android #7 - Modularização - 22/03/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/3/README.md)
+[Guild Android #7 - Modularização - 22/03/2019](https://github.com/4alltecnologia/guild-android/blob/master/meetings/7/README.md)
