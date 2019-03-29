@@ -3,10 +3,10 @@
 ## Participantes:
 
 * Arildo Jr.
+* Emilio Hoffmann
 * Giovanni Melo
 * Guilherme Bisotto
 * Lucas Bieniek
-* Lucas Grando
 * Natanael Ribeiro
 * Roger Silva
 * Vanessa Cardoso
