@@ -6,6 +6,7 @@ Membros:
 
 * [Arildo Jr.](https://www.linkedin.com/in/arildoborgesjr/)
 * [Emilio Hoffmann](https://www.linkedin.com/in/emiliohoffmann/)
+* [Geovane Jocksch](https://www.linkedin.com/in/geovane-jocksch-a8352882/)
 * [Giovanni Melo](https://www.linkedin.com/in/giovanni-de-campos-melo-7b4a5532/)
 * [Guilherme Bisotto](https://www.linkedin.com/in/guilhermebisotto/)
 * [Lucas Bieniek](https://www.linkedin.com/in/lucas-bieniek/)
