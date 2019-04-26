@@ -30,3 +30,5 @@ Guild Android #4, #5 e #6 - Reformulação da prova técnica para novos desenvol
 [Guild Android #8 - Google Play App Signing e Necessidades para migrar para API 21](https://github.com/4alltecnologia/guild-android/blob/master/meetings/8/README.md)
 
 [Guild Android #9 - Acessibilidade](https://github.com/4alltecnologia/guild-android/blob/master/meetings/9/README.md)
+
+[Guild Android #10 - Injeção de Dependências](https://github.com/4alltecnologia/guild-android/blob/master/meetings/10/README.md)
